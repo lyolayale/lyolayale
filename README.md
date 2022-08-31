@@ -8,7 +8,7 @@
 
 <hr/>
 
-<p>🛒 I’m currently working on Shopfiy/e-commerce Projects</p>
+<p>🛒 I’m currently working on Shopify/e-commerce Projects</p>
 <p>📚 I’m currently learning Advanced JavaScript</p>
 <p>💬 Ask me about Shopfify Store Setup / Store Enhancements</p>
 <p>📫 How to reach me: ...Portfolio Website: Under Construction</p>
