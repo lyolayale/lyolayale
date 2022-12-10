@@ -1,7 +1,7 @@
 <h1>Frontend Developer 🖥</h1> 
 
 
-<img src="https://cdn.pixabay.com/photo/2022/01/17/09/03/program-6944163__480.jpg" style="height: 300px; width: 1200px; object-fit: cover, border: 5px ridge #000">
+<img src="https://cdn.pixabay.com/photo/2022/01/17/09/03/program-6944163__480.jpg" style="height: 300px; width: 1200px; object-fit: cover, filter: brightness(1.2)>
 
 <h2>Techologies I Work With Daily</h2>
 <h3>HTML/SEO, CSS, JavaScript</h3>
