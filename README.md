@@ -12,4 +12,4 @@
 <p>🛒 I’m currently working on JavaScript, React, & HTML/CSS projects</p>
 <p>📚 I’m currently trying to learning C 💾, Shopify Theme Development & React</p>
 <p>💬 Ask me about how Web Development - Shopfify Store Setup / Theme Enhancements</p>
-<p>📫 How to reach me:  <a href="https://www.linkedin.com/in/eric-mckee-dev/" target="_blank">LinkedIn</a> | <a href="https://lyolayale.github.io/portfolio/" target="_blank">Portfolio</a></p>
+<p>📫 How to reach me:  <a href="https://www.linkedin.com/in/eric-mckee-dev/" target="_blank" style="color: #000">LinkedIn</a> | <a href="https://lyolayale.github.io/portfolio/" target="_blank">Portfolio</a></p>
