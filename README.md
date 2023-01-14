@@ -11,5 +11,5 @@
 
 <p>🧑🏻‍💻 I’m currently working on JavaScript, React, & HTML/CSS projects</p>
 <p>📚 I’m currently learning C 💾, Shopify Theme Development & React</p>
-<p>💬 Ask me about Front End | Web Development - Shopfify Store Setup / Theme Enhancements</p>
+<p>💬 Ask me about Front End | Web Development - Shopify Store Setup / Theme Enhancements</p>
 <p>📫 How to reach me:  <a href="https://www.linkedin.com/in/eric-mckee-dev/" target="_blank">LinkedIn</a> | <a href="https://lyolayale.github.io/portfolio/" target="_blank">Portfolio</a></p>
