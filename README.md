@@ -5,7 +5,7 @@
 <small><a href="https://unsplash.com/@ikukevk">Image by Kevin Ku</a></small>
 
 <h2>Techologies I Work With Daily</h2>
-<h3>HTML/SEO, CSS, JavaScript</h3>
+<h3>HTML/SEO, CSS, JavaScript, React</h3>
 
 <hr/>
 
