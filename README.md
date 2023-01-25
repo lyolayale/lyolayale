@@ -5,8 +5,7 @@
 <small><a href="https://unsplash.com/@ikukevk">Image by Kevin Ku</a></small>
 
 <h2>Techologies I Work With Daily</h2>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML badge"/>
 
 
 </h3>
