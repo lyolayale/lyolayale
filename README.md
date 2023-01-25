@@ -14,4 +14,3 @@
 <p>💬 Ask me about Front End | Web Development - Shopify Store Setup / Theme Enhancements</p>
 <p>📫 How to reach me:  <a href="https://www.linkedin.com/in/eric-mckee-dev/" target="_blank">LinkedIn</a> | <a href="https://lyolayale.github.io/portfolio/" target="_blank">Portfolio</a></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=lyolayale&show_icons=true"/>
