@@ -34,7 +34,7 @@
 <p>💬 Ask me about Front End | Web Development - Shopify Store Setup / Theme Enhancements</p>
 <p>📫 How to reach me: <a href="https://www.linkedin.com/in/eric-mckee-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> | <a href="https://lyolayale.github.io/portfolio/" target="_blank"> <img src="https://img.shields.io/badge/-PORTFOLIO-lightgrey style="height: 1rem" alt="Portfolio badge"/></a></p>
+  </a> | <a href="https://lyolayale.github.io/portfolio/" target="_blank"> <img src="https://img.shields.io/badge/-PORTFOLIO-lightgrey style="height: 2rem; background-color: lightgrey" alt="Portfolio badge"/></a></p>
 
 
 
