@@ -1,4 +1,4 @@
-<h1>Front End Web Developer 🖥</h1> 
+<h1>Full Stack Web Developer 🖥</h1> 
 
 
 <a href="https://lyolayale.github.io/portfolio/"><img src="https://images.unsplash.com/photo-1506452819137-0422416856b8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTV8fHdlYiUyMGRldmVsb3BtZW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60" style="height: 300px; width: 1200px; object-fit: cover"></a>
