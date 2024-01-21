@@ -32,8 +32,8 @@
 <hr/>
 
 <p>🧑🏻‍💻 I’m currently working on Fullstack React/Rails projects</p>
-<p>📚 I’m currently learning more about Rails and React and dabbling with PHP</p>
-<p>💬 Ask me about Fullstack Web Development - Shopify Store Setup / Theme Enhancements</p>
+<p>📚 I’m currently learning more about Rails/React and teaching myself the MERN stack</p>
+<p>💬 Ask me about Fullstack and Frontend Web Development</p>
 <p>📫 How to reach me: <a href="https://www.linkedin.com/in/eric-mckee-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> | <a href="https://lyolayale.github.io/portfolio/" target="_blank"> <img src="https://img.shields.io/badge/📂-PORTFOLIO-lightgrey alt="Portfolio badge" style="padding: 5px"/></a></p>
